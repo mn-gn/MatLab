@@ -1,0 +1,600 @@
+MODEL        1
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.000   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.200   0.000  1.00
+TER
+ENDMDL
+MODEL        2
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.004   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.196   0.000  1.00
+TER
+ENDMDL
+MODEL        3
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.008   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.192   0.000  1.00
+TER
+ENDMDL
+MODEL        4
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.012   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.188   0.000  1.00
+TER
+ENDMDL
+MODEL        5
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.016   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.184   0.000  1.00
+TER
+ENDMDL
+MODEL        6
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.020   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.180   0.000  1.00
+TER
+ENDMDL
+MODEL        7
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.024   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.176   0.000  1.00
+TER
+ENDMDL
+MODEL        8
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.028   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.172   0.000  1.00
+TER
+ENDMDL
+MODEL        9
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.032   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.168   0.000  1.00
+TER
+ENDMDL
+MODEL       10
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.036   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.164   0.000  1.00
+TER
+ENDMDL
+MODEL       11
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.040   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.000   3.160   0.000  1.00
+TER
+ENDMDL
+MODEL       12
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.044   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.055   3.155   0.000  1.00
+TER
+ENDMDL
+MODEL       13
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.048   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.110   3.150   0.000  1.00
+TER
+ENDMDL
+MODEL       14
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.052   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.165   3.144   0.000  1.00
+TER
+ENDMDL
+MODEL       15
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.056   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.220   3.136   0.000  1.00
+TER
+ENDMDL
+MODEL       16
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.060   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.274   3.128   0.000  1.00
+TER
+ENDMDL
+MODEL       17
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.064   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.328   3.119   0.000  1.00
+TER
+ENDMDL
+MODEL       18
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.068   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.382   3.109   0.000  1.00
+TER
+ENDMDL
+MODEL       19
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.072   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.436   3.098   0.000  1.00
+TER
+ENDMDL
+MODEL       20
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.076   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.489   3.085   0.000  1.00
+TER
+ENDMDL
+MODEL       21
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.080   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.542   3.073   0.000  1.00
+TER
+ENDMDL
+MODEL       22
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.084   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.595   3.059   0.000  1.00
+TER
+ENDMDL
+MODEL       23
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.088   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.647   3.044   0.000  1.00
+TER
+ENDMDL
+MODEL       24
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.092   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.699   3.028   0.000  1.00
+TER
+ENDMDL
+MODEL       25
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.096   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.751   3.012   0.000  1.00
+TER
+ENDMDL
+MODEL       26
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.100   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.803   2.994   0.000  1.00
+TER
+ENDMDL
+MODEL       27
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.104   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.854   2.976   0.000  1.00
+TER
+ENDMDL
+MODEL       28
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.108   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.904   2.957   0.000  1.00
+TER
+ENDMDL
+MODEL       29
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.112   0.000   0.000  1.00
+ATOM      3  Au      A   0      -0.954   2.937   0.000  1.00
+TER
+ENDMDL
+MODEL       30
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.116   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.004   2.916   0.000  1.00
+TER
+ENDMDL
+MODEL       31
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.120   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.054   2.894   0.000  1.00
+TER
+ENDMDL
+MODEL       32
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.124   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.102   2.872   0.000  1.00
+TER
+ENDMDL
+MODEL       33
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.128   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.151   2.848   0.000  1.00
+TER
+ENDMDL
+MODEL       34
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.132   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.199   2.824   0.000  1.00
+TER
+ENDMDL
+MODEL       35
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.136   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.246   2.799   0.000  1.00
+TER
+ENDMDL
+MODEL       36
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.140   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.293   2.773   0.000  1.00
+TER
+ENDMDL
+MODEL       37
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.144   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.340   2.747   0.000  1.00
+TER
+ENDMDL
+MODEL       38
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.148   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.386   2.719   0.000  1.00
+TER
+ENDMDL
+MODEL       39
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.152   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.431   2.691   0.000  1.00
+TER
+ENDMDL
+MODEL       40
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.156   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.476   2.662   0.000  1.00
+TER
+ENDMDL
+MODEL       41
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.160   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.520   2.633   0.000  1.00
+TER
+ENDMDL
+MODEL       42
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.164   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.564   2.602   0.000  1.00
+TER
+ENDMDL
+MODEL       43
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.168   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.607   2.571   0.000  1.00
+TER
+ENDMDL
+MODEL       44
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.172   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.649   2.539   0.000  1.00
+TER
+ENDMDL
+MODEL       45
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.176   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.691   2.507   0.000  1.00
+TER
+ENDMDL
+MODEL       46
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.180   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.732   2.474   0.000  1.00
+TER
+ENDMDL
+MODEL       47
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.184   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.773   2.440   0.000  1.00
+TER
+ENDMDL
+MODEL       48
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.188   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.813   2.405   0.000  1.00
+TER
+ENDMDL
+MODEL       49
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.192   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.852   2.370   0.000  1.00
+TER
+ENDMDL
+MODEL       50
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.196   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.891   2.334   0.000  1.00
+TER
+ENDMDL
+MODEL       51
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.200   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.928   2.298   0.000  1.00
+TER
+ENDMDL
+MODEL       52
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.200   0.000   0.000  1.00
+ATOM      3  Au      A   0      -1.966   2.261   0.000  1.00
+TER
+ENDMDL
+MODEL       53
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.188   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.002   2.223   0.000  1.00
+TER
+ENDMDL
+MODEL       54
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.176   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.038   2.185   0.000  1.00
+TER
+ENDMDL
+MODEL       55
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.164   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.073   2.146   0.000  1.00
+TER
+ENDMDL
+MODEL       56
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.152   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.107   2.107   0.000  1.00
+TER
+ENDMDL
+MODEL       57
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.140   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.141   2.067   0.000  1.00
+TER
+ENDMDL
+MODEL       58
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.128   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.174   2.027   0.000  1.00
+TER
+ENDMDL
+MODEL       59
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.116   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.206   1.986   0.000  1.00
+TER
+ENDMDL
+MODEL       60
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.104   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.237   1.944   0.000  1.00
+TER
+ENDMDL
+MODEL       61
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.092   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.268   1.903   0.000  1.00
+TER
+ENDMDL
+MODEL       62
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.080   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.297   1.860   0.000  1.00
+TER
+ENDMDL
+MODEL       63
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.068   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.326   1.817   0.000  1.00
+TER
+ENDMDL
+MODEL       64
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.056   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.354   1.774   0.000  1.00
+TER
+ENDMDL
+MODEL       65
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.044   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.382   1.730   0.000  1.00
+TER
+ENDMDL
+MODEL       66
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.032   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.408   1.686   0.000  1.00
+TER
+ENDMDL
+MODEL       67
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.020   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.434   1.642   0.000  1.00
+TER
+ENDMDL
+MODEL       68
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       4.008   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.459   1.597   0.000  1.00
+TER
+ENDMDL
+MODEL       69
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.996   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.483   1.552   0.000  1.00
+TER
+ENDMDL
+MODEL       70
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.984   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.506   1.506   0.000  1.00
+TER
+ENDMDL
+MODEL       71
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.972   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.529   1.460   0.000  1.00
+TER
+ENDMDL
+MODEL       72
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.960   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.550   1.414   0.000  1.00
+TER
+ENDMDL
+MODEL       73
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.948   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.571   1.367   0.000  1.00
+TER
+ENDMDL
+MODEL       74
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.936   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.591   1.320   0.000  1.00
+TER
+ENDMDL
+MODEL       75
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.924   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.610   1.273   0.000  1.00
+TER
+ENDMDL
+MODEL       76
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.912   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.628   1.226   0.000  1.00
+TER
+ENDMDL
+MODEL       77
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.900   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.646   1.178   0.000  1.00
+TER
+ENDMDL
+MODEL       78
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.888   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.662   1.130   0.000  1.00
+TER
+ENDMDL
+MODEL       79
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.876   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.678   1.082   0.000  1.00
+TER
+ENDMDL
+MODEL       80
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.864   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.692   1.034   0.000  1.00
+TER
+ENDMDL
+MODEL       81
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.852   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.706   0.985   0.000  1.00
+TER
+ENDMDL
+MODEL       82
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.840   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.719   0.936   0.000  1.00
+TER
+ENDMDL
+MODEL       83
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.828   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.731   0.888   0.000  1.00
+TER
+ENDMDL
+MODEL       84
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.816   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.743   0.839   0.000  1.00
+TER
+ENDMDL
+MODEL       85
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.804   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.753   0.790   0.000  1.00
+TER
+ENDMDL
+MODEL       86
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.792   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.763   0.740   0.000  1.00
+TER
+ENDMDL
+MODEL       87
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.780   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.771   0.691   0.000  1.00
+TER
+ENDMDL
+MODEL       88
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.768   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.779   0.642   0.000  1.00
+TER
+ENDMDL
+MODEL       89
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.756   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.786   0.592   0.000  1.00
+TER
+ENDMDL
+MODEL       90
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.744   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.792   0.543   0.000  1.00
+TER
+ENDMDL
+MODEL       91
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.732   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.797   0.494   0.000  1.00
+TER
+ENDMDL
+MODEL       92
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.720   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.801   0.444   0.000  1.00
+TER
+ENDMDL
+MODEL       93
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.708   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.804   0.395   0.000  1.00
+TER
+ENDMDL
+MODEL       94
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.696   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.807   0.345   0.000  1.00
+TER
+ENDMDL
+MODEL       95
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.684   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.808   0.296   0.000  1.00
+TER
+ENDMDL
+MODEL       96
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.672   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.809   0.247   0.000  1.00
+TER
+ENDMDL
+MODEL       97
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.660   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.809   0.198   0.000  1.00
+TER
+ENDMDL
+MODEL       98
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.648   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.808   0.149   0.000  1.00
+TER
+ENDMDL
+MODEL       99
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.636   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.806   0.101   0.000  1.00
+TER
+ENDMDL
+MODEL      100
+ATOM      1  Au      A   0       0.000   0.000   0.000  1.00
+ATOM      2  Au      A   0       3.624   0.000   0.000  1.00
+ATOM      3  Au      A   0      -2.803   0.055   0.000  1.00
+TER
+ENDMDL
