@@ -10,6 +10,9 @@ T = h5read(filename, data_path);
 T = double(T);
 %%
 
+
+ff;
+
 A = squeeze(mean(T,1));
 
 %%
