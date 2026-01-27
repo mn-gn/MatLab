@@ -2,6 +2,6 @@
 *.mccd
 *.mat
 *.asv
-KEK2512/*.h5
+*.h5
 *.poni
 *.edf
