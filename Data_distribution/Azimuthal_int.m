@@ -86,10 +86,10 @@ On_normalized = Ons ./ norm_factors_img;
 
 %% HISTGRAM OF PIXEL
 
-for i = 1024 : 1024
-    for j = 1 : 50
+for i = 1050 : 1050
+    for j = 1060 : 1060
         figure;     
-        B = On_normalized(i,j*20,:);
+        B = On_normalized(i,j,:);
         histogram(B,100);
         hold on;
         xline(mean(B),'--r','LineWidth',2);
