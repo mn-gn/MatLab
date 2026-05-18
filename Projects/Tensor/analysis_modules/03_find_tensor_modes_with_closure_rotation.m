@@ -1,4 +1,4 @@
-%% unique_tensor_modes_closure_rotation.m
+%% 03_find_tensor_modes_with_closure_rotation.m
 % Shifted-time tensor를 먼저 CP/PARAFAC로 분해해 lifetime eigenmode를 얻고,
 % 그 eigenmode 공간 안에서 nonnegative closure rotation으로 species profile을 찾는다.
 %
@@ -82,7 +82,7 @@ cfg.topologyUsePeakOrderedAcyclic = true;
 cfg.topologyTimeWeightAlpha = 0.5;
 cfg.topologyMinRelativeSourceRate = 1e-3;
 
-cfg.outDir = fullfile(pwd, "unique_tensor_modes_closure_rotation_results");
+cfg.outDir = fullfile(pwd, "tensor_mode_closure_rotation_results");
 
 if exist("cfg_override", "var") && isstruct(cfg_override)
     overrideNames = fieldnames(cfg_override);
