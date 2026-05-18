@@ -1,87 +1,67 @@
 function start_parallel(num_worker, pool_type)
 
 %
-% Open and manage a parallel pool (threads or local).
+% Open and manage a parallel pool (local or threads).
 %
 % INPUT
 %   num_worker :
 %       0 (default)
-%           - Auto mode.
-%           - If a pool already exists with the same pool_type, keep it as-is.
-%           - If no pool exists, start a pool using the maximum
-%             number of workers allowed by the selected profile.
+%           - Auto mode (always maximum workers for the requested pool_type).
 %       Positive integer N
-%           - Explicit mode.
-%           - If a pool exists with a different number of workers,
-%             restart the pool using N workers (auto-reduced if needed).
+%           - Explicit mode (restart and try N workers; auto-reduce if capped).
 %   pool_type :
-%       "threads" (default)
-%       "local"
+%       "local" (default)
+%           - Process-based parallel pool on the local machine.
+%       "threads"
+%           - Thread-based parallel pool (shared memory, parfor only).
+%
+% NOTE
+%   - Always restart the pool when this function is called.
+%   - Auto mode (num_worker = 0) : always start with the maximum allowed workers.
+%   - Explicit mode              : start with num_worker (auto-reduce if capped).
 
 arguments
     num_worker (1,1) double {mustBeInteger, mustBeNonnegative} = 0
-    pool_type  (1,1) string {mustBeMember(pool_type, ["threads","local"])} = "local"
+    pool_type  (1,1) string {mustBeMember(pool_type, ["local","threads"])} = "local"
 end
 
-p = gcp('nocreate');
 auto_mode = (num_worker == 0);
 
-% If a pool exists, decide whether to keep or restart
+% Always shut down any existing pool first
+p = gcp('nocreate');
 if ~isempty(p)
-
-    % Detect current pool type without touching p.Cluster (threads-safe)
-    if isa(p, 'parallel.ThreadPool')
-        current_type = "threads";
-    elseif isa(p, 'parallel.ProcessPool')
-        current_type = "local";
-    else
-        current_type = "unknown";
-    end
-
-    % If pool type differs, always restart
-    if current_type ~= pool_type
-        delete(p);
-        p = [];
-    else
-        % Same pool type
-        % - Auto mode: keep as-is
-        % - Explicit : restart only if different NumWorkers
-        if auto_mode || p.NumWorkers == num_worker
-            fprintf('Parallel pool already running (%d workers, %s).\n', ...
-                    p.NumWorkers, pool_type);
-            return
-        else
-            delete(p);
-            p = [];
-        end
-    end
+    delete(p);
 end
 
-% Decide requested workers in auto mode
+% Decide requested workers in auto mode (maximum for the selected pool_type)
 if auto_mode
     switch pool_type
-        case "threads"
-            num_worker = feature('numcores');
         case "local"
             c = parcluster('local');
             num_worker = c.NumWorkers;
+        case "threads"
+            num_worker = feature('numcores');
     end
 end
 
 % Start pool (reduce if capped)
 try
     parpool(pool_type, num_worker);
+
 catch ME
     if contains(ME.message, 'Too many workers requested', 'IgnoreCase', true)
         tok = regexp(ME.message, 'maximum of\s+(\d+)\s+workers', 'tokens', 'once');
         if isempty(tok)
             rethrow(ME);
         end
+
         num_worker_requested = num_worker;
         num_worker = str2double(tok{1});
+
         fprintf(['Requested %d workers exceeds the maximum allowed.\n' ...
                  'Using %d workers instead (%s pool).\n'], ...
                  num_worker_requested, num_worker, pool_type);
+
         parpool(pool_type, num_worker);
     else
         rethrow(ME);
