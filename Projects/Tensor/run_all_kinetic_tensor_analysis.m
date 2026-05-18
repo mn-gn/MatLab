@@ -67,6 +67,9 @@ if cfg.runSequentialOpenGenerator
     generatorOverride = struct();
     generatorOverride.resultFile = fullfile(cfg.sequentialTensorOutDir, "workspace_result.mat");
     generatorOverride.outDir = cfg.sequentialGeneratorOutDir;
+    if exist(generatorOverride.resultFile, "file") ~= 2
+        error("Sequential tensor result is missing. Run step 1 first or set generatorOverride.resultFile to an existing workspace_result.mat file.");
+    end
     run_analysis_module(fullfile(moduleDir, "04_fit_sparse_open_generator_from_tensor.m"), generatorOverride);
     cd(rootDir);
 end

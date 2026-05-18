@@ -1,4 +1,4 @@
-%% tensor_sparse_generator_solution.m
+%% 04_fit_sparse_open_generator_from_tensor.m
 % Fit one sparse first-order acyclic generator inside the tensor-derived
 % kinetic manifold.  This is not a branch-vs-sequential model sweep:
 % all peak-ordered active/ground edges are present at once, and the
@@ -16,8 +16,8 @@ end
 clc; close all;
 
 cfg = struct();
-cfg.resultFile = fullfile(pwd, "unique_tensor_modes_closure_rotation_results", "workspace_result.mat");
-cfg.outDir = fullfile(pwd, "tensor_sparse_generator_solution_results");
+cfg.resultFile = fullfile(pwd, "tensor_mode_closure_rotation_results", "workspace_result.mat");
+cfg.outDir = fullfile(pwd, "sparse_open_generator_results");
 cfg.randomSeed = 101;
 cfg.numStarts = 44;
 cfg.maxIter = 650;

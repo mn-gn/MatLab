@@ -1,4 +1,4 @@
-%% validate_debye_branch_parallel_open_generator.m
+%% 05_validate_debye_branch_parallel_open_generator.m
 % Build branch and parallel mock data with Debye scattering spectra using
 % atomic form factors, then validate open-generator / VarPro separation.
 
@@ -15,7 +15,7 @@ clc; close all;
 
 cfg = struct();
 cfg.randomSeed = 20260517;
-cfg.outDir = fullfile(pwd, "debye_branch_parallel_validation_results");
+cfg.outDir = fullfile(pwd, "debye_branch_parallel_open_generator_results");
 cfg.nQ = 190;
 cfg.nT = 121;
 cfg.nDelay = 82;
